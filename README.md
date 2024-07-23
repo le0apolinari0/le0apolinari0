@@ -1,7 +1,7 @@
 
 ### Olá Seja Bem Vindo a Meu Github 👋! Eu sou o Leo Apolinário.
 
-Graduado em Analise e Desenvolvimento de Sistemas, apaixonado por tecnologia e entusiasta de programação.
+Sou Graduado em Analise e Desenvolvimento de Sistemas, apaixonado por tecnologia e entusiasta da programação.
 Durante esta trajetória de aprendizado, venho adquirindo novas habilidades técnicas que o mercado demanda. Na constante busca por novos desafios e aprendizados, estou cursando pôs graduação em Engenharia de software na Faculdade Anhanguera. Empenhado em contribuir de forma positiva para o desenvolvimento de soluções tecnológicas que impactem de forma significativa o dia a dia das pessoas.
 Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que me permitam agregar profissionalmente valores e lucratividade a empresa e me desafiem a ir além.<br/>
 
