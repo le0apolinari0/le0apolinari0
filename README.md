@@ -6,7 +6,7 @@ Durante esta trajetória de aprendizado, venho adquirindo novas habilidades téc
 Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que me permitam agregar profissionalmente valores e lucratividade a empresa e me desafiem a ir além.<br/>
 
 ## Grafico Das Ferramentas de Desenvolvimento Que mais Utilizo.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le0apolinari0&3langs_count=6)
+![le0apolinari0 ](https://github-readme-stats.vercel.app/api/top-langs/?username=le0apolinari0&3langs_count=6)
 
 ## Tecnologias e Ferramentas de Desenvolvimento Que Utilizo No Meu Dia Dia.
 <div>
@@ -31,5 +31,5 @@ Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que 
 
 ## Contatos
 [![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/leobaldo-apolinario)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](12988432405)
-[![Outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leosantosap@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/wTIRaS)
+[![Outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)](leosantosap@outlook.com)
