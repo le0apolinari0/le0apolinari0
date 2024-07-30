@@ -35,8 +35,8 @@ Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que 
 <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img align="center" alt="Visual-Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="center" alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FFFF00?style=for-the-badge&logo=soapui&logoColor=black">
-<img align="center" alt="insomnia"  src="https://img.shields.io/badge/insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black">
-<img img align="center" alt="swagger" src="https://img.shields.io/badge/swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
+<img align="center" alt="insomnia" src="https://img.shields.io/badge/insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black">
+<img align="center" alt="swagger" src="https://img.shields.io/badge/swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
 
 </div><br/>
 
