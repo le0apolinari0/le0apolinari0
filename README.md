@@ -45,4 +45,4 @@ Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que 
 ## 📱 Contatos 
 
 [![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leobaldo-apolinario/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512988432405?text=Ol%C3%A1%20bem%20vindo%20%F0%9F%91%8B%20!%20Eu%20sou%20o%20Leo%20Apolinario%20deixe%20sua%20mensagem%20que%20retornarei%20assim%20poss%C3%ADvel%20%F0%9F%A4%9D.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512988432405?text=Ol%C3%A1%20bem%20vindo!%20Eu%20sou%20o%20Leo%20Apolinario%20deixe%20sua%20mensagem%20que%20retornarei%20assim%20poss%C3%ADvel.)
