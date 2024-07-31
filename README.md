@@ -26,21 +26,26 @@ Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que 
 <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img align="center" alt="Spring-Security" src="https://img.shields.io/badge/Spring_Security-8FBC8F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
 <img align="center" alt="Json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
+<img align="center" alt="flyway" src="https://img.shields.io/badge/flyway-8B0000?style=for-the-badge&logo=flyway&logoColor=pink"/>
+
 
 </div><br/>
 <div>
+<img align="center" alt="mockito" src="https://img.shields.io/badge/mockito-008000?style=for-the-badge&logo=oi.mockito&logoColor=black">
+<img align="center" alt="mockkr" src="https://img.shields.io/badge/mockk-8B008B?style=for-the-badge&logo=oi.mockk&logoColor=black">
 <img align="center" alt="Spring-Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-363636.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img align="center" alt="Visual-Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div><br/>
+<div>
 <img align="center" alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FFFF00?style=for-the-badge&logo=soapui&logoColor=black">
 <img align="center" alt="insomnia" src="https://img.shields.io/badge/insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black">
 <img align="center" alt="swagger" src="https://img.shields.io/badge/swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
-
 </div><br/>
 
-
+flyway
 
 ## 📱 Contatos 
 
