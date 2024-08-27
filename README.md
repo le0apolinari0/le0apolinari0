@@ -27,9 +27,8 @@ Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que 
 <img align="center" alt="Spring-Security" src="https://img.shields.io/badge/Spring_Security-8FBC8F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
 <img align="center" alt="Json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
 <img align="center" alt="flyway" src="https://img.shields.io/badge/flyway-8B0000?style=for-the-badge&logo=flyway&logoColor=pink"/>
-
-
 </div><br/>
+
 <div>
 <img align="center" alt="mockito" src="https://img.shields.io/badge/mockito-008000?style=for-the-badge&logo=oi.mockito&logoColor=black">
 <img align="center" alt="mockkr" src="https://img.shields.io/badge/mockk-8B008B?style=for-the-badge&logo=oi.mockk&logoColor=black">
@@ -45,7 +44,6 @@ Busco por oportunidades de estágio Full Stack, Desenvolvedor Jr ou Trainee que 
 <img align="center" alt="swagger" src="https://img.shields.io/badge/swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
 </div><br/>
 
-flyway
 
 ## 📱 Contatos 
 
