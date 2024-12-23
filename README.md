@@ -1,9 +1,11 @@
 
 ### Olá Seja Bem Vindo a Meu Github 👨‍💻 ! Eu sou o Leo Apolinário 🙋‍♂️ .
 
-Sou Graduado em Analise e Desenvolvimento de Sistemas, apaixonado por tecnologia e entusiasta da programação.
-Durante esta trajetória de aprendizado, venho adquirindo novas habilidades técnicas que o mercado demanda. Na constante busca por novos desafios e aprendizados, estou cursando pôs graduação em Engenharia de software na Faculdade Anhanguera. Empenhado em contribuir de forma positiva para o desenvolvimento de soluções tecnológicas que impactem de forma significativa o dia a dia das pessoas.
-Busco por oportunidades Full Stack, Desenvolvedor Jr ou Trainee que me permitam agregar profissionalmente valores e lucratividade a empresa e me desafiem a ir além.<br/>
+Graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software. Sou um apaixonado por tecnologia e um entusiasta da programação. Durante esta trajetória de aprendizado, venho adquirindo novas habilidades técnicas que o mercado demanda.
+
+Na constante busca por novos desafios e aprendizados, estou empenhado em contribuir de forma positiva para o desenvolvimento de soluções tecnológicas que impactem de forma significativa o dia a dia das pessoas.
+
+Busco oportunidades como Desenvolvedor Full Stack Jr, Analista de TI ou Trainee em empresas de tecnologia que valorizem inovação e crescimento profissional, e que me permitam agregar profissionalmente valores e lucratividade, e me desafiem a ir além.<br/>
 
 ## 📊 Grafico Das Linguagem de Programação Que mais Utilizo no Ambiente de Desenvolvimento.
 ![le0apolinari0 ](https://github-readme-stats.vercel.app/api/top-langs/?username=le0apolinari0&3langs_count=6)
