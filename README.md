@@ -30,7 +30,9 @@ E-mail: leosantos1987@outlook.com
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-D2691E?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=Javascript&logoColor=Black"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="Angular" src="https://img.shields.io/badge/angular-E44C30?style=for-the-badge&logo=angular&logoColor=white"/>
 </div><br/>
+
 <div>
 <img align="center" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=Docker&logoColor=white"/>
