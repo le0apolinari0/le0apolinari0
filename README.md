@@ -1,7 +1,7 @@
 
 ### Olá Seja Bem Vindo a Meu Github 👨‍💻 ! Eu sou o Leo Apolinário 🙋‍♂️ .
 
-“A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser
+“ A tecnologia vai reinventar negócios e processos, mas as relações humanas continuarão a ser
 a chave para o sucesso.” Stephen Covey.
 
 Graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software. Sou um apaixonado por tecnologia e um entusiasta da programação. Durante esta trajetória de aprendizado, venho adquirindo novas habilidades técnicas que o mercado demanda.
