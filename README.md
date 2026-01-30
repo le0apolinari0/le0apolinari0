@@ -1,20 +1,12 @@
+### Olá, Seja Bem-Vindo ao meu GitHub! 👨‍💻 Eu sou o Leo Apolinário 🙋‍♂️
 
-### Olá Seja Bem Vindo a Meu Github 👨‍💻 ! Eu sou o Leo Apolinário 🙋‍♂️ .
+> “A tecnologia vai reinventar negócios e processos, mas as relações humanas continuarão a ser a chave para o sucesso.” — Stephen Covey.
 
-“ A tecnologia vai reinventar negócios e processos, mas as relações humanas continuarão a ser
-a chave para o sucesso.” Stephen Covey.
+Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Engenharia de Software**. Sou um apaixonado por tecnologia e entusiasta da programação, focado em construir soluções robustas e escaláveis que impactem positivamente o dia a dia das pessoas.
 
-Graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software. Sou um apaixonado por tecnologia e um entusiasta da programação. Durante esta trajetória de aprendizado, venho adquirindo novas habilidades técnicas que o mercado demanda.
+Atualmente, dedico-me a aprofundar conhecimentos em **Arquitetura de Software (Clean Architecture, DDD)** e padrões **SOLID**, buscando sempre a melhor resolução de problemas. Sou um profissional que valoriza ambientes colaborativos, dinâmicos e o trabalho em equipe.
 
-Na constante busca por novos desafios e aprendizados, estou empenhado em contribuir de forma positiva para o desenvolvimento de soluções tecnológicas que impactem de forma significativa o dia a dia das pessoas.
-
-Estou sempre focada na resolução de problemas e amo trabalhar em grupo, preferencialmente em ambientes colaborativos e dinâmicos (como eu mesmo).<br/>
-
-Busco oportunidades como Desenvolvedor Full Stack Jr, Analista de TI ou Trainee em empresas de tecnologia que valorizem inovação e crescimento profissional, e que me permitam agregar profissionalmente valores e lucratividade, e me desafiem a ir além.
-
-Vamos nos conectar?<br/>
-Celular: (12) 98843-2405<br/>
-E-mail: leosantos1987@outlook.com
+Busco oportunidades como **Desenvolvedor Full Stack Jr**, **Analista de TI** ou **Trainee**, onde eu possa agregar valor técnico, inovação e lucratividade, enfrentando desafios que me levem ao próximo nível profissional.
 <br/>
 
 ## 📊 Grafico Das Linguagem de Programação Que mais Utilizo no Ambiente de Desenvolvimento.
@@ -60,6 +52,9 @@ E-mail: leosantos1987@outlook.com
 
 
 ## 📱 Contatos 
+<div>
+  Vamos nos conectar?
+</div><br/>
 
 [![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leobaldo-apolinario/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512988432405?text=Ol%C3%A1%20bem%20vindo%20!%20Eu%20sou%20o%20Leo%20Apolinario%20deixe%20sua%20mensagem%20que%20retornarei%20o%20mais%20breve%20poss%C3%ADvel%20.)
