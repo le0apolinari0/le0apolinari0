@@ -1,16 +1,17 @@
-### Olá, Seja Bem-Vindo ao meu GitHub! 👨‍💻 Eu sou o Leo Apolinário 🙋‍♂️
+# Olá, Seja Bem-Vindo ao meu GitHub! 
+- 👨‍💻 Eu sou o Leo Apolinário Pós-graduado em Engenharia de Software | Desenvolvedor Fullstack 🙋‍♂️
 
-> “A tecnologia vai reinventar negócios e processos, mas as relações humanas continuarão a ser a chave para o sucesso.” — Stephen Covey.
+- "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam." — Martin Fowler
+  
+Engenheiro de Software focado na construção de ecossistemas robustos utilizando Java (Spring Boot) e Kotlin. Minha expertise reside no desenvolvimento de APIs escaláveis, microsserviços conteinerizados com Docker e interfaces dinâmicas com React/Angular.
+Ao contrário de um "fazedor de CRUD", foco meu desenvolvimento em Arquitetura de Software (Clean Architecture, DDD) e na aplicação rigorosa de padrões SOLID para garantir código sustentável e de alta manutenibilidade.
+🚀 Destaques Técnicos:
+Backend: Java 17+, Kotlin, Spring Boot (Security, Data, Cloud, Cache), Microsserviços.
+Frontend: React.js, Angular, TypeScript e Tailwind CSS.
+Qualidade: TDD com JUnit 5, Mockito e MockK.
+Infra: Docker, Docker Compose e Versionamento de Banco de Dados com Flyway.
 
-Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Engenharia de Software**. Sou um apaixonado por tecnologia e entusiasta da programação, focado em construir soluções robustas e escaláveis que impactem positivamente o dia a dia das pessoas.
-
-Atualmente, dedico-me a aprofundar conhecimentos em **Arquitetura de Software (Clean Architecture, DDD)** e padrões **SOLID**, buscando sempre a melhor resolução de problemas. Sou um profissional que valoriza ambientes colaborativos, dinâmicos e o trabalho em equipe.
-
-Busco oportunidades como **Desenvolvedor Full Stack Jr**, **Analista de TI** ou **Trainee**, onde eu possa agregar valor técnico, inovação e lucratividade, enfrentando desafios que me levem ao próximo nível profissional.
-<br/>
-
-## 📊 Grafico Das Linguagem de Programação Que mais Utilizo no Ambiente de Desenvolvimento.
-![le0apolinari0 ](https://github-readme-stats.vercel.app/api/top-langs/?username=le0apolinari0&3langs_count=6)
+🎯 Objetivo: Desenvolvedor Fullstack Júnior | Backend Java Júnior.
 
 ## 🛠️ Tecnologias e Ferramentas de Desenvolvimento Que Utilizo No Meu Dia Dia.
 <div>
