@@ -14,7 +14,7 @@ Ao contrário de um "fazedor de CRUD", direciono meu desenvolvimento para **Arqu
 
 | Camada | Tecnologias & Frameworks |
 | :--- | :--- |
-| **Backend** | Java 17+, Kotlin, Spring Boot (Security, Data, Cloud, Cache), Microsserviços |
+| **Backend** | Java 17+, Kotlin, Spring Boot (Security, Data, Cache, Cloud/básico), Microsserviços |
 | **Frontend** | React.js, Angular, TypeScript e Tailwind CSS |
 | **Qualidade** | TDD com JUnit 5, Mockito e MockK |
 | **Infra** | Docker, Docker Compose e Versionamento com Flyway |
