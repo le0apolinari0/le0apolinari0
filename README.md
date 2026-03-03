@@ -1,15 +1,24 @@
-# Olá, Seja Bem-Vindo ao meu GitHub! 
-- 👨‍💻 Eu sou o Leo Apolinário Pós-graduado em Engenharia de Software | Desenvolvedor Fullstack 🙋‍♂️
+# Olá, eu sou o Leo Apolinário 👨‍💻
+### **Pós-graduado em Engenharia de Software | Desenvolvedor Fullstack Java & Kotlin**
 
-- "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam." — Martin Fowler
-  
-Engenheiro de Software focado na construção de ecossistemas robustos utilizando Java (Spring Boot) e Kotlin. Minha expertise reside no desenvolvimento de APIs escaláveis, microsserviços conteinerizados com Docker e interfaces dinâmicas com React/Angular.
-Ao contrário de um "fazedor de CRUD", foco meu desenvolvimento em Arquitetura de Software (Clean Architecture, DDD) e na aplicação rigorosa de padrões SOLID para garantir código sustentável e de alta manutenibilidade.
-🚀 Destaques Técnicos:
-Backend: Java 17+, Kotlin, Spring Boot (Security, Data, Cloud, Cache), Microsserviços.
-Frontend: React.js, Angular, TypeScript e Tailwind CSS.
-Qualidade: TDD com JUnit 5, Mockito e MockK.
-Infra: Docker, Docker Compose e Versionamento de Banco de Dados com Flyway.
+> "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam." — *Martin Fowler*
+
+Engenheiro de Software focado na construção de ecossistemas robustos utilizando **Java (Spring Boot)** e **Kotlin**. Minha expertise reside no desenvolvimento de APIs escaláveis, microsserviços conteinerizados com **Docker** e interfaces dinâmicas com **React/Angular**.
+
+Ao contrário de um "fazedor de CRUD", direciono meu desenvolvimento para **Arquitetura de Software (Clean Architecture, DDD)** e na aplicação rigorosa de padrões **SOLID**, garantindo código sustentável e de alta manutenibilidade.
+
+---
+
+### 🚀 Destaques Técnicos
+
+
+| Camada | Tecnologias & Frameworks |
+| :--- | :--- |
+| **Backend** | Java 17+, Kotlin, Spring Boot (Security, Data, Cloud, Cache), Microsserviços |
+| **Frontend** | React.js, Angular, TypeScript e Tailwind CSS |
+| **Qualidade** | TDD com JUnit 5, Mockito e MockK |
+| **Infra** | Docker, Docker Compose e Versionamento com Flyway |
+
 
 🎯 Objetivo: Desenvolvedor Fullstack Júnior | Backend Java Júnior.
 
