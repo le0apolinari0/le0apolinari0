@@ -5,7 +5,7 @@
 
 Engenheiro de Software focado na construção de ecossistemas robustos utilizando **Java (Spring Boot)** e **Kotlin**. Minha expertise reside no desenvolvimento de APIs escaláveis, microsserviços conteinerizados com **Docker** e interfaces dinâmicas com **React/Angular**.
 
-Ao contrário de um "fazedor de CRUD", direciono meu desenvolvimento para **Arquitetura de Software (Clean Architecture, DDD)** e na aplicação rigorosa de padrões **SOLID**, garantindo código sustentável e de alta manutenibilidade.
+Direciono meu desenvolvimento para **Arquitetura de Software (Clean Architecture, DDD)** e na aplicação rigorosa de padrões **SOLID**, garantindo código sustentável e de alta manutenibilidade.
 
 ---
 
@@ -14,8 +14,8 @@ Ao contrário de um "fazedor de CRUD", direciono meu desenvolvimento para **Arqu
 
 | Camada | Tecnologias & Frameworks |
 | :--- | :--- |
-| **Backend** | Java 17+, Kotlin, Spring Boot (Security, Data, Cache, Cloud/básico), Microsserviços |
-| **Frontend** | React.js, Angular, TypeScript e Tailwind CSS |
+| **Backend** | Java 17+, GO , Kotlin, Spring Boot (Security, Data, Cache, Cloud/básico), Microsserviços |
+| **Frontend** | React , Vue.js , Angular, TypeScript e Tailwind CSS |
 | **Qualidade** | TDD com JUnit 5, Mockito e MockK |
 | **Infra** | Docker, Docker Compose e Versionamento com Flyway |
 
@@ -26,10 +26,12 @@ Ao contrário de um "fazedor de CRUD", direciono meu desenvolvimento para **Arqu
 <div>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-F4A460?style=for-the-badge&logo=openjdk&logoColor=1E90FF"/>
 <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-E23744?style=for-the-badge&logo=Kotlin&logoColor=Navy"/>
+<img align="center" alt="GO" src="https://img.shields.io/badge/GO-0078D4?style=for-the-badge&logo=GO&logoColor=1E90FF"/>
 <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img align="center" alt="React.js" src="https://img.shields.io/badge/React.js-0056D2?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-7B68EE?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-D2691E?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img align="center" alt="VUE.JS" src="https://img.shields.io/badge/VUE.JS-008000?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=Javascript&logoColor=Black"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-E44C30?style=for-the-badge&logo=angular&logoColor=white"/>
