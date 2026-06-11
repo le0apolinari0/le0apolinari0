@@ -1,9 +1,9 @@
 # Olá, eu sou o Leo Apolinário 👨‍💻
-### **Pós-graduado em Engenharia de Software | Desenvolvedor Fullstack Java & Kotlin**
+### **Pós-graduado em Engenharia de Software | Desenvolvedor Fullstack **
 
 > "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam." — *Martin Fowler*
 
-Engenheiro de Software focado na construção de ecossistemas robustos utilizando **Java (Spring Boot)** e **Kotlin**. Minha expertise reside no desenvolvimento de APIs escaláveis, microsserviços conteinerizados com **Docker** e interfaces dinâmicas com **React/Angular**.
+Engenheiro de Software focado na construção de ecossistemas robustos. Minha expertise reside no desenvolvimento de APIs escaláveis, microsserviços conteinerizados e interfaces dinâmicas.
 
 Direciono meu desenvolvimento para **Arquitetura de Software (Clean Architecture, DDD)** e na aplicação rigorosa de padrões **SOLID**, garantindo código sustentável e de alta manutenibilidade.
 
@@ -20,8 +20,8 @@ Direciono meu desenvolvimento para **Arquitetura de Software (Clean Architecture
 | **Infra** | Docker, Docker Compose e Versionamento com Flyway |
 
 
-🎯 Objetivo: Desenvolvedor Fullstack Júnior | Backend Java Júnior.
-
+🎯 Objetivo: Desenvolvedor Fullstack Júnior | Backend .
+ 
 ## 🛠️ Tecnologias e Ferramentas de Desenvolvimento Que Utilizo No Meu Dia Dia.
 <div>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-F4A460?style=for-the-badge&logo=openjdk&logoColor=1E90FF"/>
